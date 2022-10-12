@@ -1,0 +1,45 @@
+@import url();
+body{
+    background-color: beige;
+    font-family: 'Poppins', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 1cm;
+}
+
+h1 {
+    font-size: 64px;
+    font-weight: bold;
+    padding-bottom: 16px;
+}
+
+p{
+    font-size: 20px;
+}
+.hero-image{
+    width: 300px;
+}
+
+a:link{
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover{
+    color: pink;
+}
+
+a:active{
+    color:blueviolet
+}
